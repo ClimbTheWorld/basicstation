@@ -147,6 +147,7 @@ Variable Name | Value | Description | Default
 **`MODEL`** | `STRING` | ```SX1301``` or ```SX1302``` | ```SX1301```
 **`TC_URI`** | `STRING` | basics station TC URI to get connected.  | 
 **`EUI_ADDRESS`** | `STRING` | In case you use Raspberry Pi Zero without `eth0` you can use this to generate the `EUI` from `wlan0` instead of another network interface. You will need to add `wlan0` | 
+LUK: see picture uploaded ![Config for RPI3, SX1301, gnz.io backplane](devicevariables.png)
 
 
 #### The Things Stack (TTS) Specific Variables (V3)
